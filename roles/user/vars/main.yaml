@@ -1,4 +1,2 @@
-- name: variable
-  -vars:
-    MONGODB_HOST: mongodb.ellamma.fun
-    REDIS_HOST: redis.ellamma.fun
+MONGODB_HOST: mongodb.ellamma.fun
+REDIS_HOST: redis.ellamma.fun
