@@ -1,0 +1,5 @@
+- name: payment variables
+  vars:
+    CART_HOST: cart.ellamma.fun
+    USER_HOST: user.ellamma.fun
+    RABBITMQ_HOST: rabbitmq.ellamma.fun
